@@ -186,7 +186,7 @@ section{
         width: 40vw;
     }
   }
-  @media(max-width:426px){
+  @media(max-width:430px){
     html{
         font-size: 30%;
     }
